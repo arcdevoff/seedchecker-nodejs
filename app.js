@@ -9,10 +9,10 @@ import debugLog from "./utils/debugLog.js";
 import fs from "fs";
 
 // Telegram Chat ID
-const CHAT_ID = 5233311475;
+const CHAT_ID = 11111111;
 
 // Ваш токен Telegram-бота
-const bot = new TelegramBot("7795164721:AAGaVvtnMKZks6ltyaxRh-P7ANMwu5wqMsw", {
+const bot = new TelegramBot("1111111:AAGaVvtnMKZks6ltyaxRh-P7ANMwu5wqMsw", {
   polling: true,
 });
 
